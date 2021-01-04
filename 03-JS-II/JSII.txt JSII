@@ -1,0 +1,5 @@
+
+for: Es un bucle que se repite la cantidad de veces que le indiquemos hasta que la condicion que incluye se cumpla.( Consta de un inicio de evaluación, un fin de evaluación y un paso de evaluación como argumentos).
+&& : Es un operador lógico que compara dos expresiones, si ambas son verdaderas el operador da verdadero, todas las otras convinaciones dan como resultado falso.
+|| : Es un operador lógico que compara dos expresiones, solo con que una expresión sea verdadera el operador es verdadero.
+!  : Es un operador lógico que niega lo que sigue después de el.
