@@ -1,0 +1,1 @@
+Array: Un arreglo es una lista de elementos, se define con corchetes, los elementos pueden ser cualquier tipo de datos como string, numeros, funciones o incluso otrs arreglos.
