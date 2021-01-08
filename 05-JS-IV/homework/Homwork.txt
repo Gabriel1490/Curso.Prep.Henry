@@ -1,0 +1,5 @@
+Objetos: Los objetos son contenedores de información (string, numeros, funciones otros objetos) son similares a los arreglos pero sin indice
+Propiedades: los objetos contienen propidades y cada una de estas propiedades contiene su valor
+Métodos: un método es una función dento de un objeto.
+Bucle for in: este bucle tiene como finalidad recorrer las propidades del objeto
+Notación de puntos vs notación de corchetes: son dos formas distintas de acceder a una propiedad o valor dentro de un objeto, los corchetes se usan generalmente para variables
