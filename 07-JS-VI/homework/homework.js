@@ -14,6 +14,7 @@ function sumarArray(numeros, cb) {
     cb(sumaReduce)
   }
    
+  
 
 function forEach(array, cb) {
   // Itera sobre la matriz "array" y pasa los valores al callback uno por uno

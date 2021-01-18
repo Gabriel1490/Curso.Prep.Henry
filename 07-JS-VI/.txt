@@ -1,1 +1,1 @@
-Callbacks:Es una función la cual es admitida como argumento en otra función
+Callbacks:Es una función la cual es admitida como argumento en otra función .
