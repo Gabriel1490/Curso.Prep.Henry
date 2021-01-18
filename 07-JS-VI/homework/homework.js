@@ -14,6 +14,7 @@ function sumarArray(numeros, cb) {
     cb(sumaReduce)
   }
    
+
   
 
 function forEach(array, cb) {
