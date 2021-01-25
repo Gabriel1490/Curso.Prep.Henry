@@ -1,0 +1,2 @@
+prototype: es la forma que tiene las clases de crear un método una sola vez y dar acceso a cada objeto de esa clase aestos métodos.
+Constructor: sirven para crear muchos objetos que comparten alguna de las mismas propiedades y métodos
