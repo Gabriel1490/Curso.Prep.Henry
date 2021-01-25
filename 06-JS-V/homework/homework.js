@@ -13,13 +13,11 @@ function Usuario (opciones){
     this.nombre = opciones.nombre
     this.email = opciones.email
     this.password = opciones.password
-   
-    }
-   
-    Usuario.prototype.saludar=function(){
-      return "Hola, mi nombre es" + this.nombre
-    }
-    
+  } 
+  
+  Usuario.prototype.saludar=function(){
+    return "Hola, mi nombre es " + this.nombre
+  }
 
   
   return Usuario
@@ -43,10 +41,9 @@ function agregarStringInvertida() {
   // Pista: Necesitarás usar "this" dentro de "reverse"
 
   String.prototype.reverse=function(){
-    var stringInvertida= " "
+    var stringInvertida= ""
     for(var i=this.length - 1;i>=0; i--){
-      stringInvertida= stringInvertida + this.charAt (i)
-
+      stringInvertida= stringInvertida + this.charAt(i)
   }
   return stringInvertida
 
